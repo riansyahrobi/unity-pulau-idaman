@@ -1,0 +1,4 @@
+#Wed Apr 25 22:05:23 ICT 2018
+base.0=D\:\\Backup FD\\Praktikum Grafika Komputer\\Vegetation\\Vegetation\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Backup FD\\Praktikum Grafika Komputer\\Vegetation\\Vegetation\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
